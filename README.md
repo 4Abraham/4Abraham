@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://github.com/4Abraham/4Abraham/blob/main/pexels-pixabay-276452.jpg" width="600" height="300"/>
 </div>
-I am from Kenya. I started my web development career path in 2019 while pursuing my bachelors.I followed my passion in a core of prototyping and online web development and computing classes.Excelled in user experience and user interfaces.Currently Iam a Full stack web developer responsible for end-to-end web app development.
+I am from Kenya. I started my web development career path in 2019 while pursuing my bachelors.I followed my passion in web development by studying on youtube, and now I have excelled in user experience and user interfaces.Currently I am a Full stack web developer responsible for end-to-end web app development.All thanks to the net ninja, the youtuber who teaches web programming.
 
 ### :fire: My Stats 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=4Abraham&theme=highcontrast&background=000000)](https://git.io/streak-stats)
