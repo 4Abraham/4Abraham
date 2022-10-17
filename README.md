@@ -1,4 +1,4 @@
-## Abraham Ndiwa , #### Full stack web developer
+## Abraham Ndiwa , full stack web developer
 <div align="center">
   <img src="https://github.com/4Abraham/4Abraham/blob/main/pexels-pixabay-276452.jpg" width="1200" height="300"/>
 </div>
