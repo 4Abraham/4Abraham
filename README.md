@@ -1,15 +1,12 @@
-### Abraham Ndiwa 
-#### Full stack web developer
+## Abraham Ndiwa , #### Full stack web developer
 <div align="center">
-  <img src="https://github.com/4Abraham/4Abraham/blob/main/pexels-pixabay-276452.jpg" width="600" height="300"/>
+  <img src="https://github.com/4Abraham/4Abraham/blob/main/pexels-pixabay-276452.jpg" width="1200" height="300"/>
 </div>
 I am from Kenya. I started my web development career path in 2019 while pursuing my bachelors.I followed my passion in web development by studying on youtube, and now I have excelled in user experience and user interfaces.Currently I am a Full stack web developer responsible for end-to-end web app development.All thanks to the net ninja, the youtuber who teaches web programming.
 
 ### :fire: My Stats 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=4Abraham&theme=highcontrast&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4Abraham&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 ### Languages 
 <div>
