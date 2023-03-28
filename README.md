@@ -4,8 +4,6 @@
 
 ### :fire: My Stats 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=4Abraham&theme=highcontrast&background=000000)](https://git.io/streak-stats)
-### :fire: Most used languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4Abraham&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages 
 <div>
